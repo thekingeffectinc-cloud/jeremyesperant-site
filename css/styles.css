@@ -25,7 +25,7 @@ h1{font-size:clamp(1.9rem,4vw,2.9rem)}h2{font-size:clamp(1.5rem,3vw,2rem)}h3{fon
 .btn-gold{background:var(--gold);color:var(--ink)!important;box-shadow:0 6px 18px rgba(196,163,90,.35)}.btn-gold:hover{background:var(--gold-2)}
 .btn-ghost{border-color:var(--accent);color:var(--accent)}.btn-ghost:hover{background:var(--accent);color:#fff}
 .btn-lg{font-size:1.1rem;padding:.95rem 1.7rem}.btn-sm{padding:.45rem .95rem;font-size:.9rem}
-.hero{background:linear-gradient(135deg,rgba(13,79,79,.06),rgba(196,163,90,.10)),repeating-conic-gradient(#f0eadf 0 25%,transparent 0 50%) 0 0/56px 56px;padding:3.5rem 0}
+.hero{background:linear-gradient(135deg,rgba(13,79,79,.06),rgba(196,163,90,.10)),repeating-conic-gradient(#5C4033 0 25%,#D2B48C 0 50%) 0 0/96px 96px;padding:3.5rem 0}
 .hero-grid{display:grid;grid-template-columns:1.35fr .9fr;gap:2.5rem;align-items:center}
 .eyebrow{text-transform:uppercase;letter-spacing:.12em;font-size:.78rem;font-weight:700;color:var(--accent);margin:0 0 .6rem}
 .slogan{font-family:var(--serif);font-size:1.45rem;color:var(--gold-2);margin:.4rem 0 0;font-weight:700}
