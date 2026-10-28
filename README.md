@@ -1,6 +1,6 @@
 # JeremyEsperant.com — personal real estate site (static)
 
-Target domain: **JeremyEsperant.com** (not purchased/registered yet).
+Live (free GitHub Pages): https://thekingeffectinc-cloud.github.io/jeremyesperant-site/  — custom domain JeremyEsperant.com not purchased.
 
 Static HTML/CSS + a little JS for Jeremy Esperant, Sales Associate | United Realty Group Inc.
 Brokerage office used site-wide: **7300 W. McNab Road, Suite 119, Tamarac, FL 33321**.
