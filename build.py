@@ -117,7 +117,7 @@ home = head("Jeremy Esperant | Broward Realtor | Plantation, Sunrise & Fort Laud
       </div>
       <p class="hero-contact">{LICNAME}<br><a href="{TEL}">{PHONE}</a> · <a href="mailto:{EMAIL}">{EMAIL}</a></p>
     </div>
-    <figure class="hero-photo"><img src="img/jeremy-esperant.jpg" alt="Jeremy Esperant, Sales Associate with United Realty Group Inc." width="852" height="1024"></figure>
+    <figure class="hero-photo"><img src="img/jeremy-esperant.jpg" alt="Jeremy Esperant, Sales Associate with United Realty Group Inc." width="900" height="1082"></figure>
   </div>
 </section>
 
@@ -181,7 +181,7 @@ about = head("About Jeremy Esperant | Sales Associate, United Realty Group Inc."
 <section class="page-hero"><div class="wrap"><p class="eyebrow">About</p><h1>Meet Jeremy Esperant</h1><p class="lead">{LICNAME}</p></div></section>
 <section class="section">
   <div class="wrap grid-2 about-grid">
-    <figure class="about-photo"><img src="img/jeremy-esperant.jpg" alt="Jeremy Esperant headshot" width="852" height="1024"></figure>
+    <figure class="about-photo"><img src="img/jeremy-esperant.jpg" alt="Jeremy Esperant headshot" width="900" height="1082"></figure>
     <div>
       <h2>Strategy first, every move</h2>
       <p>Jeremy Esperant is a South Florida local and a Florida-licensed Sales Associate with United Realty Group Inc., working out of the brokerage's office at {ADDR}. He serves buyers and sellers across Broward County — Plantation, Sunrise, Fort Lauderdale, Tamarac, Lauderhill, Davie, Weston and Pembroke Pines — and neighboring Palm Beach County.</p>
